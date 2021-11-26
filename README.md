@@ -1,4 +1,4 @@
-# triangulos
+# triângulos
 
 O programa lê três valores inteiros que representam os lados de um triângulo e informa se os lados formam um triângulo isósceles, escaleno ou
 equilatero. Condição: a soma de dois lados tem que ser maior que o terceiro lado.
